@@ -3,8 +3,8 @@
 
 **2.** Hãy xuất ra màn hình thông tin cá nhân theo mẫu sau:
 > \- Họ tên: Nguyễn Văn A
-> \- Lớp: 221504
-> \- Năm sinh: 2001
+\- Lớp: 221504
+\- Năm sinh: 2001
 
 **3.** Nhập vào `năm sinh` của một người. Xuất ra màn hình `số tuổi` của người đó.
  

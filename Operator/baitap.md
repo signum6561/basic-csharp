@@ -20,9 +20,7 @@ Input
 Output
 2 / 5
 ```
-
 **7.** Nhập vào thứ `t` và `k` ngày. Hãy cho biết sau `k` ngày là thứ mấy?
-
 ```
 Input
 2 7
@@ -34,7 +32,6 @@ Output
 //Giải thích
 //Thứ 2, sau 7 ngày thì sẽ là thứ 3
 ```
-
 **8.** Nhập vào một `góc` bất kỳ. Cho biết nó thuộc phần tư thứ mấy.
 ```
 92 => 2
@@ -48,7 +45,18 @@ Output
 2.7 => 3
 12.3 => 12
 ```
-**10.** Nhập vào giờ `h`, phút `m`, giây `s`. Tiếp theo nhập vào `k` giây. Sau `k` giây thì giờ phút giây là bao nhiêu?
+**10** Nhập vào `m` tiền. Hãy qui đổi ra tờ `50`, `20`, `10`, `5`, `2`, `1`.
+```
+Input
+197
+Ouput
+3 2 0 1 1 0
+
+//Giải thích
+// 197 đổi ra 3 tờ 50, 2 tờ 20, 0 tờ 10, 1 tờ 5, 1 tờ 2, 0 tờ 1
+// 197 = 50 * 3 + 20 * 2 + 5 * 1 + 2 * 1
+```
+**11.** Nhập vào giờ `h`, phút `m`, giây `s`. Tiếp theo nhập vào `k` giây. Sau `k` giây thì giờ phút giây là bao nhiêu?
 ```
 VD1:
 Input

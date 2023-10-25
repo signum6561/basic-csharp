@@ -12,25 +12,25 @@
 **5.** Nhập vào `cạnh kề` và `cạnh đối`. Tính cạnh huyền của tam giác vuông.
 
 **6.** Rút gọn phân số. Nhập vào `tử số`, `mẫu số`. Hãy tính phân số tối giản.
-
-Input
 ```
+Input
 12 30
 ```
-Output
 ```
+Output
 2 / 5
 ```
 
 **7.** Nhập vào thứ `t` và `k` ngày. Hãy cho biết sau `k` ngày là thứ mấy?
 
-Input
 ```
+Input
 2 7
 ```
-Output
 ```
+Output
 3
+
 //Giải thích
 //Thứ 2, sau 7 ngày thì sẽ là thứ 3
 ```
@@ -49,3 +49,26 @@ Output
 12.3 => 12
 ```
 **10.** Nhập vào giờ `h`, phút `m`, giây `s`. Tiếp theo nhập vào `k` giây. Sau `k` giây thì giờ phút giây là bao nhiêu?
+```
+VD1:
+Input
+6 10 5
+9
+Ouput
+6 10 14
+
+VD2:
+Input
+8 7 59
+1
+Ouput
+8 8 0
+
+VD3:
+Input
+24 59 59
+5
+Ouput
+0 0 4
+```
+

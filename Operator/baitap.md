@@ -10,3 +10,4 @@
 **4.** Nhập điểm thi 3 môn Toán, Lý, Hóa của một. Tính `điểm trung bình` của sinh viên đó.
 
 **5.** Nhập vào `cạnh kề` và `cạnh đối`. Tính cạnh huyền của tam giác vuông.
+

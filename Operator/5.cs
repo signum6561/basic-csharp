@@ -12,7 +12,8 @@ class Program
         canhDoi = Convert.ToDouble(Console.ReadLine());
         
         canhHuyen = Math.Sqrt(Math.Pow(canhKe, 2) + Math.Pow(canhDoi, 2));
-        
+        //Math.Pow(a, b): mũ số
+        //Math.Sqrt: căn bậc 2
         System.Console.WriteLine("Cạnh huyền là: " + canhHuyen);
     }
 }

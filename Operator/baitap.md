@@ -1,4 +1,5 @@
 # Bài tập về toán tử
+---
 **1.** Nhập vào bán kính `r`. Tính `chu vi`, `diện tích` của hình tròn.
 
 **2.** Nhập vào 2 số thực `a`, `b`. Tính `a + b`, `a - b`, `a * b`, `a / b`, `a % b`.
@@ -11,41 +12,32 @@
 
 **5.** Nhập vào `cạnh kề` và `cạnh đối`. Tính cạnh huyền của tam giác vuông.
 
-**6.** Rút gọn phân số. Nhập vào `tử số`, `mẫu số`. Hãy tính phân số tối giản.
-```
-Input
-12 30
-```
-```
-Output
-2 / 5
-```
-**7.** Nhập vào thứ `t` và `k` ngày. Hãy cho biết sau `k` ngày là thứ mấy?
+**6.** Nhập vào thứ `t` và `k` ngày. Hãy cho biết sau `k` ngày là thứ mấy?
 ```
 Input
 2 7
 ```
 ```
 Output
-3
+2
 
 //Giải thích
 //Thứ 2, sau 7 ngày thì sẽ là thứ 3
 ```
-**8.** Nhập vào một `góc` bất kỳ. Cho biết nó thuộc phần tư thứ mấy.
+**7.** Nhập vào một `góc` bất kỳ. Cho biết nó thuộc phần tư thứ mấy.
 ```
 92 => 2
 37 => 1
 187 => 3
 365 => 1
 ```
-**9.** Làm tròn số. Nhập vào một số thực `n` bất kì. Hãy in ra màn hình `n` sau khi được làm tròn. Không được dùng Math.Round
+**8.** Làm tròn số. Nhập vào một số thực `n` bất kì. Hãy in ra màn hình `n` sau khi được làm tròn. Không được dùng Math.Round
 ```
 0.5 => 1
 2.7 => 3
 12.3 => 12
 ```
-**10** Nhập vào `m` tiền. Hãy qui đổi ra tờ `50`, `20`, `10`, `5`, `2`, `1`.
+**9.** Nhập vào `m` tiền. Hãy qui đổi ra tờ `50`, `20`, `10`, `5`, `2`, `1`.
 ```
 Input
 197
@@ -56,7 +48,7 @@ Ouput
 // 197 đổi ra 3 tờ 50, 2 tờ 20, 0 tờ 10, 1 tờ 5, 1 tờ 2, 0 tờ 1
 // 197 = 50 * 3 + 20 * 2 + 5 * 1 + 2 * 1
 ```
-**11.** Nhập vào giờ `h`, phút `m`, giây `s`. Tiếp theo nhập vào `k` giây. Sau `k` giây thì giờ phút giây là bao nhiêu?
+**10.** Nhập vào giờ `h`, phút `m`, giây `s`. Tiếp theo nhập vào `k` giây. Sau `k` giây thì giờ phút giây là bao nhiêu?
 ```
 VD1:
 Input
@@ -74,7 +66,7 @@ Ouput
 
 VD3:
 Input
-24 59 59
+23 59 59
 5
 Ouput
 0 0 4

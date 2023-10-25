@@ -22,7 +22,7 @@ Output
 2
 
 //Giải thích
-//Thứ 2, sau 7 ngày thì sẽ là thứ 3
+//Thứ 2, sau 7 ngày thì sẽ là thứ 2
 ```
 **7.** Nhập vào một `góc` bất kỳ. Cho biết nó thuộc phần tư thứ mấy.
 ```

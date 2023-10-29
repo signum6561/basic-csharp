@@ -77,7 +77,7 @@ Ouput
 
 **13.** Một nhân vật trong game có 5 thông số sau: `Str`, `Con`, `Will`, `Level`, `Life`. Hãy viết chương trình tính lượng máu tối đa `MaxHP` của nhân vật theo công thức sau:
 
-$MaximumHP$ = $[(\frac{3Constitution + Strength + Will}{3})(\frac{Level}{9}) + Con](\frac{Life}{100})+5$
+$MaximumHP$ = $((\frac{3Constitution + Strength + Will}{3})(\frac{Level}{9}) + Con)(\frac{Life}{100})+5$
 
 **14.** Nhập vào dung tích `l` của chai nước và `k` ml nước. Cần bao nhiêu chai nước để chứa hết `k` ml nước? Hãy cho biết thể tích của chai cuối cùng?
 ```

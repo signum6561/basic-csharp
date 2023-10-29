@@ -22,9 +22,8 @@ class Program
         int t = h * 3600 + m * 60 + s + k;
         int h1 = t / 3600 % 24;
         t %= 3600;
-        int m1 = t / 60;
         int s1 = t % 60;
-
+        int m1 = t / 60;
         System.Console.WriteLine($"{h1}:{m1}:{s1}");
         */ 
 

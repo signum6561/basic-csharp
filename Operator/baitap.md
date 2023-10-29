@@ -69,7 +69,17 @@ Input
 Ouput
 0 0 4
 ```
-**11.** Nhập vào dung tích `l` của chai nước và `k` ml nước. Cần bao nhiêu chai nước để chứa hết `k` ml nước? Hãy cho biết thể tích của chai cuối cùng?
+**11.** Nhập vào `điểm giữa kì` và `điểm cuối kì` của sinh viên. Hãy tính `điểm trung bình môn`. Biết:
+ 
+Điểm trung bình môn = 40% điểm giữa kì + 60% điểm cuối kì 
+
+**12.** Nhập vào chiều cao `h`, bán kính dáy `r`. Tính thể tích hình trụ.
+
+**13.** Một nhân vật trong game có 5 thông số sau: `Str`, `Con`, `Will`, `Level`, `Life`. Hãy viết chương trình tính lượng máu tối đa `MaxHP` của nhân vật theo công thức sau:
+
+$MaximumHP$ = $[(\frac{3Constitution + Strength + Will}{3})(\frac{Level}{9}) + Con](\frac{Life}{100})+5$
+
+**14.** Nhập vào dung tích `l` của chai nước và `k` ml nước. Cần bao nhiêu chai nước để chứa hết `k` ml nước? Hãy cho biết thể tích của chai cuối cùng?
 ```
 VD1:
 Input
@@ -84,7 +94,7 @@ Ouput
 1 50
 ```
 
-**12.** Một nhà máy muốn phân loại thịt. Tổng khối lượng số thịt là `m` kg. Từ `m` kg đó, có thể chia thành bao nhiêu sản phẩm thịt mỗi loại?.
+**15.** Một nhà máy muốn phân loại thịt. Tổng khối lượng số thịt là `m` kg. Từ `m` kg đó, có thể chia thành bao nhiêu sản phẩm thịt mỗi loại?.
 | Loại  | Khối lượng |
 | :---: | :--------: |
 |   1   |   0.25kg   |
@@ -102,7 +112,7 @@ Output
 // 26.75kg phân thành 1 loại 1, 1 loại 2, 1 loại 3, 0 loại 4, 5 loại 5
 // 26.75 = 5 * 5 + 1 * 3 + 1 * 0.5 + 1 * 0.25
 ```
-**13.** Một lớp có 32 bạn. Mỗi tuần sẽ có 1 bạn được phân công trực lớp theo danh sách STT tăng dần. Giả sử tuần này bạn STT `t` trực lớp. Vậy sau `k` tuần thì người trực lớp có STT là mấy?
+**16.** Một lớp có 32 bạn. Mỗi tuần sẽ có 1 bạn được phân công trực lớp theo danh sách STT tăng dần. Giả sử tuần này bạn STT `t` trực lớp. Vậy sau `k` tuần thì người trực lớp có STT là mấy?
 ```
 VD1:
 Input

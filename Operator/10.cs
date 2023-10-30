@@ -12,7 +12,7 @@ class Program
         int s = Convert.ToInt32(Console.ReadLine());
         System.Console.Write("Nhập vào k: ");
         int k = Convert.ToInt32(Console.ReadLine());
-        /* test
+        /* test 123243
         Cách 1
         int s1 = (s + k) % 60;
         int m1 = (m + (s + k) / 60) % 60;
